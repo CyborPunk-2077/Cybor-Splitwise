@@ -1,38 +1,21 @@
-# CyborSplitwise
-Splitwise is a bill spliting application https://secure.splitwise.com, Here I have made a clone by using MERN stack
+# Cybor Splitwise Clone
 
-## Author
-Abhishek Tiwary
+This is a splitwise clone project named Cybor, designed to help users manage shared expenses and settle up with friends. 
 
-## How to use
+## Features
+- Add friends and manage friend lists
+- Track shared expenses
+- Settle up balances
+- User authentication
 
-```
-Use npm install to install all the dependencies. (In Terminal)
-1. cd/client
-   npm install
-   
-2. cd/server
-   npm install
-   
-Use node command to start server side server
-3. cd/server
-   node app.js
-   
-Use npm start to start the client side sever . (In another Terminal)
-4. cd/client
-   npm start
-```
+## Structure
+- `client/` - Frontend React application
+- `server/` - Backend Node.js/Express API
 
-And point your browser to `http://localhost:3000`.
+## Getting Started
+1. Install dependencies in both `client` and `server` folders
+2. Run the backend and frontend servers
 
-### Homepage
-![](images/homepage.png)
+---
 
-### Dashboard
-![](images/dashboard.png)
-
-### Add an Expense
-![](images/expense.png)
-
-### settle Up
-![](images/settleup.png)
+This project includes customizations and extra files for demonstration purposes.
